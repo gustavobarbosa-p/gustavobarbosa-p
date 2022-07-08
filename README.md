@@ -6,7 +6,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Gustavo-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Gustavo-Python" height="30" width="30" src="sendit.png">
+  <img align="center" alt="Gustavo-Python" height="35" width="35" src="sendit.png">
   
           
   
